@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I am a 18 years old who is currently working on Telegram bot. Looking for a collaboration in Telegram bot 🤖
+💻 I am a 18 years old who is currently working on Telegram bot. Looking for a collaboration in Telegram bot 🤖. EMAIL 📧: debayanabae2005@gmail.com
 
 
 ## 🌐 Socials:
