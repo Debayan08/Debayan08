@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Debayan Das</h1>
-<h3 align="center">A passionate Bot developer of Telegram and WhatsApp</h3>
+<h3 align="center">A passionate Bot developer of Telegram</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debayan08&label=Profile%20views&color=0e75b6&style=flat" alt="debayan08" /> </p>
 
